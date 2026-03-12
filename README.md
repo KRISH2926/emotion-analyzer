@@ -46,3 +46,7 @@ emotion-analyzer
 ## Demo
 
 The application allows users to enter a paragraph and analyze emotional patterns across the text.
+## 🌐 Live Demo
+Try the app here:  
+https://huggingface.co/spaces/Krish2926/emotion-analyzer
+
